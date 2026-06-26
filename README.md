@@ -74,6 +74,9 @@ Highest Profit Margin: Neverfull MM
 
 This project uses hypothetical financial assumptions for educational purposes only. It is not based on confidential or proprietary financial information.
 
+## Program Output
+![Program Output](output.png)
+
 ---
 
 ## Author
